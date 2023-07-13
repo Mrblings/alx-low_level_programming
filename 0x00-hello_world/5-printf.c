@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-  * main-entry of our code
-  * Return : return the value of 0
+  * main - entry of our code
+  * Return:  return the value of 0
   */
 
 int main(void)
