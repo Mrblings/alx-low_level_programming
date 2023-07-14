@@ -5,9 +5,8 @@
 /* betty style doc for function main goes there */
 /**
   * main - entry point of our code
-  * Return: return the vaqlue of 0
+  * Return: return the value of 0
   */
-
 int main(void)
 {
 	int n;
@@ -18,7 +17,7 @@ int main(void)
 	if (n > 0)
 		printf("%d is positive", n);
 	else if (n == 0)
-		printf("%d is 0", n);
+		printf("%d is zero", n);
 	else
 		printf("%d is negative", n);
 	printf("\n");
