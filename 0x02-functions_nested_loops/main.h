@@ -1,5 +1,7 @@
 #ifndef MAIN_H
-#define	MAIN.H
+#define MAIN_H
 
-int -putchar(chat c)
+int _putchar(char c);
+void print_alphabet(void);
 
+#endif
