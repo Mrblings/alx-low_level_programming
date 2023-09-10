@@ -25,7 +25,8 @@ int _strlen_recursion(char *s)
 	return (1 + _strlen_recursion(s + 1));
 }
 /**
-* check_pal - cjecks if a number is a palindrome
+* check_pal - checks if a number is a palindrome
+* @s: a pointer to a certain variable
 * @i: itereration
 * @len: length of string
 * Return: returns an int value
